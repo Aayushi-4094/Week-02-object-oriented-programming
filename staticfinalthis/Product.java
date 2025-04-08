@@ -1,4 +1,4 @@
-package staticfinalthis;
+package week2.staticfinalthis;
 
 public class Product {
     public static double discount = 0.0;

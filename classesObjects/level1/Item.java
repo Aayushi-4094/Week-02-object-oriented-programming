@@ -1,4 +1,4 @@
-package classesObjects.level1;
+package week2.classesObjects.level1;
 
 import java.util.Scanner;
 

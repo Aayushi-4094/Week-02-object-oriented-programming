@@ -1,4 +1,4 @@
-package constructors.instanceClass;
+package week2.constructors.instanceClass;
 
 public class Product {
     String productName;

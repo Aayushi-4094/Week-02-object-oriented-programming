@@ -1,4 +1,4 @@
-package classesObjects.level2;
+package week2.classesObjects.level2;
 class Student {
     String name;
     int rollNumber;

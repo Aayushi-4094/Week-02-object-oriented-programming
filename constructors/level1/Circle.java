@@ -1,4 +1,4 @@
-package constructors.level1;
+package week2.constructors.level1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package staticfinalthis;
+package week2.staticfinalthis;
 
 public class Vehicle {
 public static int registrationFee = 500;

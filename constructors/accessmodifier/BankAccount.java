@@ -1,4 +1,4 @@
-package constructors.accessmodifier;
+package week2.constructors.accessmodifier;
 
 public class BankAccount {
     public long accountNumber;

@@ -1,4 +1,4 @@
-package staticfinalthis;
+package week2.staticfinalthis;
 
 public class Book {
     public static String libraryName = "Ocean of books";
